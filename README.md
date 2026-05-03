@@ -16,9 +16,6 @@ I'm Co-Founder & CEO of [**Creoglyph**](https://www.creoglyph.io/) — a Webflow
 - **[Attriflow](https://www.creoglyph.com/products/attriflow)** — bulk-edit custom attributes in Webflow
 - **[Assetflow](https://www.creoglyph.com/products/assetflow)** — manage Webflow assets at scale
 - **[ai-cms-helper](https://www.creoglyph.com/products/ai-cms-helper-text)** — AI-generated CMS helper text
-
-🏢 **[Growably](https://www.creoglyph.io/)** — Creoglyph's agency arm. Webflow sites for B2B SaaS founders globally.
-
 ---
 
 #### About me
